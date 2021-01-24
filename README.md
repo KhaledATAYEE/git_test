@@ -1,1 +1,1 @@
-this is Syaed Khalid Atayee's first git project
+this is Seyed Khalid Atayee's first git project
